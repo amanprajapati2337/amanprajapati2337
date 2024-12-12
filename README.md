@@ -1,5 +1,5 @@
 # 💫 About Me: Hi, i am Aman Prajapati / A computer science student
-🔭 Currently working on: MLflow with CI/CD pipelines for seamless model deployment.<br>🌱 Learning: DSA, Deep Learning, and NLP to expand my skill set in AI.<br>👯 Open to collaborate: on AI, machine learning, and data-driven projects.<br>👨‍💻 My projects: Check them out at GitHub<br>📝 Writing about tech: Read my articles on Medium<br>💬 Ask me about: Python, MySQL, and Machine Learning<br>📫 Reach me at: amanp183rajapati@gmail.com<br>⚡ Fun fact: I often imagine my friends and teachers as army Hierarchy  characters!
+🔭 Currently working on: MLflow with CI/CD pipelines for seamless machine learning model deployment.<br>🌱 Learning: DSA, Deep Learning, and NLP to expand my skill set in AI.<br>👯 Open to collaborate: on AI, machine learning, and data-driven projects.<br>👨‍💻 My projects: Check them out at GitHub<br>📝 Writing about tech: Read my articles on Medium<br>💬 Ask me about: Python, MySQL, and Machine Learning<br>📫 Reach me at: amanp183rajapati@gmail.com<br>⚡ Fun fact: I often imagine my friends and teachers as army Hierarchy  characters!
 
 
 ## 🌐 Socials:
